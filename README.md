@@ -1,3 +1,31 @@
+# Olá, eu sou a Giovanna Caxias! 👋
+
+Sou desenvolvedora em formação, focada em criar soluções eficientes e apaixonada por tecnologia. Atualmente estou aprimorando meus conhecimentos em Java e no ecossistema Spring.
+
+- 🔭 Atualmente estou trabalhando em projetos com **Java e Spring Boot**.
+- 🌱 Aprendendo cada vez mais sobre **Desenvolvimento Web (Front-end e Back-end)**.
+- 💬 linguagens que sei/em andamento: HTML, CSS, JavaScript e Java.
+- 📫 Como me encontrar: [www.linkedin.com/in/giovanna-caxias-770633328]
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas
+
+<p align="left">
+  </p>
+
+
+
 <h2 align="left">stats</h2>
 
 ###
