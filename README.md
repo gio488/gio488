@@ -4,7 +4,6 @@ Sou desenvolvedora em formação, focada em criar soluções eficientes e apaixo
 
 - 🔭 Atualmente estou trabalhando em projetos com **Java e Spring Boot**.
 - 🌱 Aprendendo cada vez mais sobre **Desenvolvimento Web (Front-end e Back-end)**.
-- 💬 linguagens que sei/em andamento: HTML, CSS, JavaScript e Java.
 - 📫 Como me encontrar: [www.linkedin.com/in/giovanna-caxias-770633328]
 
 ---
